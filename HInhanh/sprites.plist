@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>black-car.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{960,960}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{960,960}}</string>
+				<key>sourceSize</key>
+				<string>{960,960}</string>
+			</dict>
+
+			<key>green-car.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,0},{309,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{309,163}}</string>
+				<key>sourceSize</key>
+				<string>{309,163}</string>
+			</dict>
+
+			<key>purple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,164},{307,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{307,164}}</string>
+				<key>sourceSize</key>
+				<string>{307,164}</string>
+			</dict>
+
+			<key>red-card.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,504},{225,225}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{225,225}}</string>
+				<key>sourceSize</key>
+				<string>{225,225}</string>
+			</dict>
+
+			<key>yellow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,329},{290,174}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{290,174}}</string>
+				<key>sourceSize</key>
+				<string>{290,174}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,1024}</string>
+			<key>textureFileName</key>
+			<string>sprites.png</string>
+			</dict>
+		</dict>
+</plist>
